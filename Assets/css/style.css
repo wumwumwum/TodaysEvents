@@ -1,0 +1,118 @@
+* {
+  padding:0;
+  margin:0;
+}
+
+:root {
+  --salmon: #53964a8f;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: auto;
+}
+
+
+.jumbotron {
+  text-align: left;
+  background-color: rgb(0, 195, 255);
+  color: white;
+  border-radius: 0;
+  border-bottom: 0px solid var(--salmon);
+  padding: 0.5px 0px 0px 0px;
+}
+
+/* Table */
+
+.tableContainer {
+  padding: 0%;
+
+}
+
+table {
+  margin-left: auto;
+  margin-right:30px;
+  margin-bottom:0px;
+  padding: 0px 0px 0px 0px;
+  height: fit-content;
+}
+
+.timeOfDay {
+  color: #53964a8f;
+  padding: 0px 0px 0px 0px;
+  height: 15px;
+}
+
+.tdInput {
+  width: 80%;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #ffffff;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  text-indent: 5%;
+  width:100%;
+  height: 25px;
+}
+textarea:focus-visible {
+  outline:none;
+  background: transparent;
+  border: none;
+  resize: none;
+  padding: 0px 0px 0px 0px;
+
+}
+/* Past, Present, Future */
+
+.past {
+  background-color: #53964a8f;
+  border-bottom: 0.05px solid white;
+  height: fit-content;  
+  padding: 0px 0px 0px 0px; 
+}
+
+.present {
+  background-color: #77d46a8f;
+  border-bottom: 0.05px solid white;
+  height: fit-content;
+  padding: 0px 0px 0px 0px;
+}
+
+.future {
+  background-color: #53964a8f;
+  border-bottom: 0.05px solid white;
+  height: fit-content;
+  padding: 0px 0px 0px 0px;
+}
+
+
+/* Button */
+
+button {
+  background-color:transparent;
+  border: none;
+  color:white;
+}
+
+button:focus-visible,
+button:not(:disabled),
+button:focus {
+  outline:none!important;
+}
+
+.far {
+  font-size: 25px;
+  background-color: var(#53964a8f);
+  color: #53964a8f;
+  padding: 15px;
+  border-radius: 50%;
+  margin: 10x 0 10px 10px;
+}
+.far:hover {
+  background-color: #53964a8f;
+}
