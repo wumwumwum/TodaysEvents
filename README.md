@@ -1,6 +1,8 @@
 # Daily-Planner
 Application to add tasks and/or events for the day. 
 
+![alt text](https://github.com/wumwumwum/TodaysEvents/blob/main/Assets/images/Screenshot%202026-04-28%20094623.png)
+
 ## Overview
 This is the "Header" and "Today's Events" modules of the final Daily Planner document.
 
