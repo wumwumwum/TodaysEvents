@@ -1,4 +1,4 @@
-# Daily-Planner
+# TodaysEvents
 Application to add tasks and/or events for the day. 
 
 ![alt text](https://github.com/wumwumwum/TodaysEvents/blob/main/Assets/images/Screenshot%202026-04-28%20094623.png)
